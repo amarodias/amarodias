@@ -19,21 +19,23 @@ Here are some ideas to get you started:
 
 ## Tech Stack
 ### Languages
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,c,java,js,python" />
   </a>
 </p>
+
 ### Frameworks and Ecosystems
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet" />
   </a>
 </p>
+
 ### Infrastructure and databases
-### Frameworks and Ecosystems
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
 </p>
+
