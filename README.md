@@ -18,8 +18,22 @@ Here are some ideas to get you started:
  I enjoy understanding how things work under the hood, exploring new tecnologies and turning ideias into pratical soluctions.
 
 ## Tech Stack
+### Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,c,java,python" />
+    <img src="https://skillicons.dev/icons?i=cs,c,java,js,python" />
+  </a>
+</p>
+### Frameworks and Ecosystems
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet" />
+  </a>
+</p>
+### Infrastructure and databases
+### Frameworks and Ecosystems
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
 </p>
