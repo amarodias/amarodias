@@ -18,7 +18,10 @@ Here are some ideas to get you started:
  I enjoy understanding how things work under the hood, exploring new tecnologies and turning ideias into pratical soluctions.
 Let's connect! You can reach here:
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaro-dias)   [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://google.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaro-dias)   <a href="https://google.com" target="_blank">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
 
 
 ## Tech Stack
