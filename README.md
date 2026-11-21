@@ -35,14 +35,14 @@ Let's connect! You can reach here:
   </a>
 </p>
 
-### Infrastructure and databases
+### Infrastructure and Databases
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
 </p>
-### Supporting Tools
 
+### Supporting Tools
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postman,figma,git,vscode" />
