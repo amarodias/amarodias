@@ -24,7 +24,7 @@ Let's connect! You can reach here:
 ### Languages
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,c,java,js,python" />
+    <img src="https://skillicons.dev/icons?i=cs,java,c,js,python" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@ Let's connect! You can reach here:
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
 </p>
-###Supporting Tools
+### Supporting Tools
 
 <p>
   <a href="https://skillicons.dev">
