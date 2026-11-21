@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
  I'm currently studying Computer Engineering at [ISPTEC](https://www.isptec.co.ao/), I'm in my third year of college, passionate about software development and problem-solving.
  I enjoy understanding how things work under the hood, exploring new tecnologies and turning ideias into pratical soluctions.
+
+## Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,c,java,python" />
+  </a>
+</p>
