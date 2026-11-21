@@ -17,7 +17,6 @@ Here are some ideas to get you started:
  I'm currently studying Computer Engineering at [ISPTEC](https://www.isptec.co.ao/), I'm in my third year of college, passionate about software development and problem-solving.
  I enjoy understanding how things work under the hood, exploring new tecnologies and turning ideias into pratical soluctions.
 Let's connect! You can reach here:
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amarodias)
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaro-dias//)
 
